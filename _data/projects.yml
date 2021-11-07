@@ -13,22 +13,36 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: Movilizer
-  descr: Colaboro junto con ATEC en el diseño e implantación de una APP móvil para facilitar la gestión SAP de los avisos y órdenes de mantenimiento.
-  demo: https://web.microsoftstream.com/channel/02d9b077-3245-491a-ad9d-3d0fdf979b73
+- name: Mask Control
+  descr: Web en PHP para controlar la cantidad de lavados de tus mascarillas.
+  demo: https://mask.gasperwebdesign.com/login.php
   tags:
-    - tag: Movilizer
-    - tag: SAP
+    - tag: PHP
+    - tag: JavaScript
+    - tag: SQL
+    - tag: CSS
 
-- name: BIM
-  descr: Colaboro junto con el departamento de proyectos de metro para modelar todos los activos de metro dentro de BIM.
-  demo: https://iris.video.sap.com/message/4016074700de6052ddbce33f6984054e0b43b3695e251ad7936cd4c80530
-  tags:
-    - tag: SAP
-    - tag: Big Data
 
-- name: Calibración Equipos de medida
-  descr: Coordino con las distintas unidades de mantenimiento y una empresa externa para la mejora de los planes de calibración de los equipos de medida.
+- name: Share Control
+  descr: Web para compartir archivos entre dispositivos mediante Websockets.
+  demo: https://share.gasperwebdesign.com
   tags:
-    - tag: Calidad
-    - tag: Equipos medida
+    - tag: JavaScript
+    - tag: Svelte
+    - tag: nodeJs
+    - tag: html
+
+- name: Apuestas Raspi
+  descr: Generador Euromillones/Primitiva con Probabilidades y envío a el canal de Telegram "RaspiApuestas".
+  demo: https://t.me/raspiapuestas
+  tags:
+    - tag: Python
+    - tag: Raspberry Pi
+    - tag: Telegram-bot
+
+- name: Control persinanas Wifi
+  descr: Control de persianas Wifi con ESP32, adaptable a cualquier mando RF.
+  tags:
+    - tag: C++
+    - tag: Arduino
+    - tag: VueJs
