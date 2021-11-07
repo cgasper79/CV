@@ -7,7 +7,7 @@ title: Mi Currículum Vitae
 description: CV - Cristian Gascón Pérez
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/CV/"
+baseurl: "/CV"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
@@ -84,7 +84,7 @@ projects_title: Proyectos TMB
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: false
+show_os_projects: true
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Proyectos personales
 github_link: https://github.com/cgasper79
