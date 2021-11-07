@@ -1,0 +1,145 @@
+### VALUES YOU SHOULD CHANGE ###
+
+# GENERAL SITE SETTINGS
+# title: This will be displayed as the website's name in your browser tab.
+title: Mi Currículum Vitae
+# description: This will be meta HTML tag content. This can be ignored.
+description: CV - Cristian Gascón Pérez
+# baseurl: The subpath of your site
+# > set this to "", if you renamed the repository to <user>.github.io
+baseurl: ""
+
+# LANDING PAGE
+# username: This will displayed on the landing page as your name.
+username: Cristian Gascón Pérez
+# typing_text: This will be typed before 'scroll down for more'.
+# > set this to your job title, e.g. Fullstack Developer
+typing_text: Ingeniero Informático
+# email: Your E-Mail address for the email button.
+email: cgasconp@tmb.cat
+# For every social button you want to display, set your username or userid
+# If you do not use one of the following websites, then leave it empty
+# > twitter_username:
+github_username: cgasper79
+codepen_username: 
+dev_username: 
+linkedin_username: cgascon79
+twitter_username:
+telegram_username: cgasper79
+whatsapp_username: 639279259
+mobile_username: 639279259
+
+# ABOUT ME SECTION
+# show_aboutme_card:
+# > setting this to true, will display the About Me section
+# > setting this to false, will omit the About Me section
+show_aboutme_card: true
+# about_me_title: The will be displayed as the title in the About Me section
+about_me_title: Acerca de mí
+# about_me_description: This will be displayed under the title.
+about_me_description: Soy Ingeniero Informático con especialidad en ingeniería de computadores. Por mi formación académica tengo una sólida base en electrónica Industrial y sistemas de regulación y control automático. Mi carrera profesional ha estado enfocada al mantenimiento industrial con más de 15 años de experiencia en el sector ferroviario, 7 de los cuáles como Responsable de Unidad Mantenimiento Material Móvil en la primera línea automática del metro de Barcelona. Soy una persona organizada y metódica con gran capacidad de planificación, tengo una buena capacidad de análisis. Me apasiona la tecnología y el deporte. 
+
+# SKILLS SECTION
+# show_skills_card:
+# > setting this to true, will display the Skills section
+# > setting this to false, will omit the Skills section
+show_skills_card: true
+# about_me_title: The will be displayed as the title in the Skills section
+skills_title: Habilidades
+
+# TIMELINE SECTION
+# show_timeline_card:
+# > setting this to true, will display the Timeline section
+# > setting this to false, will omit the Timeline section
+show_timeline_card: true
+# timeline_title: The will be displayed as the title in the Timeline section
+timeline_title: Experiencia
+# cv_download_link: The link where you host your cv.
+# > e.g. you share your cv on your dropbox, then add the dropbox link here
+cv_download_link: https://www.linkedin.com/in/cgascon79/
+
+# TIMELINE SECTION FORMACION
+# show_timeline_card:
+# > setting this to true, will display the Timeline section
+# > setting this to false, will omit the Timeline section
+show_timeline2_card: true
+# timeline_title: The will be displayed as the title in the Timeline section
+timeline2_title: Formación
+# cv_download_link: The link where you host your cv.
+# > e.g. you share your cv on your dropbox, then add the dropbox link here
+cv_download2_link: https://www.linkedin.com/in/cgascon79/
+
+
+# PROJECTS SECTION
+# show_projects_card:
+# > setting this to true, will display the Projects section
+# > setting this to false, will omit the Projects section
+show_projects_card: true
+# show_projects:
+# > setting this to true, will display your listed projects in _data/projects.yml
+# > setting this to false, will omit your listed projects
+show_projects: true
+# projects_title: The will be displayed as the title of your projects
+projects_title: Proyectos TMB
+# show_os_projects:
+# > setting this to true, will display your public projects on github
+# > setting this to false, will omit your public projects on github
+show_os_projects: true
+# os_projects_title: The will be displayed as the title of your open source projects
+os_projects_title: Proyectos personales
+github_link: https://github.com/cgasper79
+
+# CONTACT SECTION
+# show_contact_card:
+# > setting this to true, will display the Contact section
+# > setting this to false, will omit the Contact section
+show_contact_card: true
+# contact_title: The will be displayed as the title in the Contact section
+contact_title: Contacto
+# contact_description: This will be displayed under the title.
+contact_description: Puedes contactar conmigo a través de los siguientes canales.
+
+# GITHUB-METADATA
+# Set this to your forked repository
+# > e.g. <user>/<user>.github.io
+repository: cgasper79/neumorphism
+
+projects:
+  # sortby:
+  # > set this to pushed, if you want to sort your github repositories by time.
+  # > set this to stars, if you want to sort your github repositories by stars.
+  sort_by: stars
+  exclude:
+    # archived:
+    # > setting this to true, will exclude archived repositories
+    # > setting this to false, will also display archived repositories
+    archived: true
+    # forks:
+    # > setting this to true, will exclude forked repositories
+    # > setting this to false, will also display forked repositories
+    forks: true
+    # projects: A list of the repository names you want to exclude from the listing.
+    projects:
+    # - repo1-to-be-excluded
+    # - repo2-to-be-excluded
+
+# GOOGLE-ANALYTICS
+# Set the id, if you want to track your website with Google Analytics
+# > set this to "", if you do not want to track with Google Analytics
+google-analytics:
+  id: "G-L4826LHF7R"
+
+### END OF VALUES YOU SHOULD CHANGE ###
+
+plugins:
+  - "jekyll-github-metadata"
+
+exclude:
+  [
+    "_assets",
+    "Gemfile",
+    "Gemfile.lock",
+    "gulpfile.js",
+    "node_modules",
+    "package.json",
+  ]

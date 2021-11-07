@@ -1,0 +1,123 @@
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
+
+# Example of a timeline entry
+# - title: airbnb
+#   title-url: https://example.com/
+#   date: Sep 2019 - Present
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
+#   timeline-side: right
+
+- title: TMB
+  title-url: https://tmb.cat/
+  date: Nov 2018 - Actualmente
+  subtitle: Coordinación Área Mantenimiento Metro
+  tags:
+    - tag: Soporte SAP
+    - tag: Gestión de Proyectos
+    - tag: Coordinación
+    - tag: Licitaciones
+    - tag: Contratos
+    - tag: Apoyo Auditorias de calidad
+
+  timeline-side: left
+
+- title: TMB
+  title-url: https://tmb.cat/
+  date: Abr 2011 - Nov 2018
+  subtitle: Responsable Unidad Mantenimento MML9
+  tags:
+    - tag: MML9
+    - tag: Liderazgo Equipos
+    - tag: Mantenimiento
+    - tag: Supervisión empresas externas garantia trenes
+  timeline-side: left
+
+- title: TMB
+  title-url: https://tmb.cat/
+  date: Abr 2006 - Abr 2011
+  subtitle: Especialista Superior Puerta Cocheras
+  tags:
+    - tag: MML4
+    - tag: MML5
+    - tag: MML9
+    - tag: Telemando MM
+    - tag: Correctivo
+  timeline-side: left
+
+- title: TMB
+  title-url: https://tmb.cat/
+  date: Jun 2005 - Abr 2006
+  subtitle: Operario Revisión MM
+  tags:
+    - tag: MML5
+    - tag: Revisión trenes
+
+  timeline-side: left
+
+- title: Academia Teens Center
+  title-url: https://teenscenter.cat
+  date: Jul 2009 - Jul 2019
+  subtitle: Responsable TIC
+  tags:
+    - tag: Community Manager
+    - tag: IT
+    - tag: Cloud
+    - tag: Gestión proyectos informáticos
+  timeline-side: right
+
+- title: Ecotécnia
+  title-url: https://www.thewindpower.net/manufacturer_en_2_ecotecnia.php
+  date: Mar 2003 - Mar 2005
+  subtitle: Técnico Electrónica laboratorio
+  tags:
+    - tag: Electrónica de Poténcia
+    - tag: Aerogeneradores
+    - tag: Energia Solar
+  timeline-side: left
+
+- title: Drago Electrónica
+  title-url: https://www.dragoelectronica.com/
+  date: Sep 2001 - Ene 2003
+  subtitle: Técnico Electrónica
+  tags:
+    - tag: Detectores de Metal
+    - tag: SAT
+    - tag: Electroimanes
+  timeline-side: right
+
+
+- title: Valeo
+  title-url: https://www.valeoservice.es/es/
+  date: Oct 2000 - Sep 2001
+  subtitle: Profesional Taller
+  tags:
+    - tag: Motores eléctricos
+    - tag: Líneas de montaje
+    - tag: Mantenimiento 1er nivel
+  timeline-side: left
+
+
+- title: Hewlett Packard
+  title-url: https://www.hpe.com/es/es/home.html
+  date: Abr 1999 - Jul 2000
+  subtitle: Técnico I+D
+  tags:
+    - tag: Scripts Unix
+    - tag: HP-UX
+  timeline-side: right
+
+
+
+
+
+

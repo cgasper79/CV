@@ -1,0 +1,34 @@
+# > name: Name of your project
+# > descr: Description of your project
+# > demo: Link to your project
+# > tags: List of technologies you used in your projects
+#
+# Example of a project
+# - name: project X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+
+- name: Movilizer
+  descr: Colaboro junto con ATEC en el diseño e implantación de una APP móvil para facilitar la gestión SAP de los avisos y órdenes de mantenimiento.
+  demo: https://web.microsoftstream.com/channel/02d9b077-3245-491a-ad9d-3d0fdf979b73
+  tags:
+    - tag: Movilizer
+    - tag: SAP
+
+- name: BIM
+  descr: Colaboro junto con el departamento de proyectos de metro para modelar todos los activos de metro dentro de BIM.
+  demo: https://iris.video.sap.com/message/4016074700de6052ddbce33f6984054e0b43b3695e251ad7936cd4c80530
+  tags:
+    - tag: SAP
+    - tag: Big Data
+
+- name: Calibración Equipos de medida
+  descr: Coordino con las distintas unidades de mantenimiento y una empresa externa para la mejora de los planes de calibración de los equipos de medida.
+  tags:
+    - tag: Calidad
+    - tag: Equipos medida
