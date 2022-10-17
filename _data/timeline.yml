@@ -19,7 +19,18 @@
 
 - title: TMB
   title-url: https://tmb.cat/
-  date: Nov 2018 - Actualmente
+  date: Nov 2021 - Actualmente
+  subtitle: Ingeniero electrónico de trenes
+  tags:
+    - tag: Ingeniería MM
+    - tag: Gestión de Proyectos
+    - tag: Mantenimiento trenes
+    - tag: SAP
+
+  timeline-side: left
+- title: TMB
+  title-url: https://tmb.cat/
+  date: Nov 2018 - Nov 2021
   subtitle: Coordinación Área Mantenimiento Metro
   tags:
     - tag: Soporte SAP
