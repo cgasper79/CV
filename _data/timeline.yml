@@ -26,8 +26,8 @@
     - tag: Gestión de Proyectos
     - tag: Mantenimiento trenes
     - tag: SAP
-
-  timeline-side: left
+  timeline-side: right
+  
 - title: TMB
   title-url: https://tmb.cat/
   date: Nov 2018 - Nov 2021
