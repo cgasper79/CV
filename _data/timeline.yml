@@ -26,7 +26,7 @@
     - tag: Gestión de Proyectos
     - tag: Mantenimiento trenes
     - tag: SAP
-  timeline-side: right
+  timeline-side: left
   
 - title: TMB
   title-url: https://tmb.cat/
@@ -40,7 +40,7 @@
     - tag: Contratos
     - tag: Apoyo Auditorias de calidad
 
-  timeline-side: left
+  timeline-side: right
 
 - title: TMB
   title-url: https://tmb.cat/
@@ -63,7 +63,7 @@
     - tag: MML9
     - tag: Telemando MM
     - tag: Correctivo
-  timeline-side: left
+  timeline-side: right
 
 - title: TMB
   title-url: https://tmb.cat/
