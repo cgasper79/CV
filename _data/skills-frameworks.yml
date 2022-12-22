@@ -1,0 +1,29 @@
+# > name: Name of your framework
+# > weight: Describes how good you know the framework - values from 1 up to 5
+#
+# Example of a framework
+# - name: Framework
+#   weight: 5
+
+- name: Iniciativa
+  weight: 5
+
+- name: Trabajo en Equipo
+  weight: 3
+
+- name: Organizado
+  weight: 4
+
+- name: Proactivo
+  weight: 5
+
+- name: Liderazgo
+  weight: 4
+
+- name: Adaptabilidad
+  weight: 4
+
+- name: Automotivación
+  weight: 4
+
+

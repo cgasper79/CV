@@ -1,0 +1,48 @@
+# > name: Name of your project
+# > descr: Description of your project
+# > demo: Link to your project
+# > tags: List of technologies you used in your projects
+#
+# Example of a project
+# - name: project X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+
+- name: Mask Control
+  descr: Web en PHP para controlar la cantidad de lavados de tus mascarillas.
+  demo: https://mask.gasperwebdesign.com/login.php
+  tags:
+    - tag: PHP
+    - tag: JavaScript
+    - tag: SQL
+    - tag: CSS
+
+
+- name: Share Control
+  descr: Web para compartir archivos entre dispositivos mediante Websockets.
+  demo: https://share.gasperwebdesign.com
+  tags:
+    - tag: JavaScript
+    - tag: Svelte
+    - tag: nodeJs
+    - tag: html
+
+- name: Apuestas Raspi
+  descr: Generador Euromillones/Primitiva con Probabilidades y envío a el canal de Telegram "RaspiApuestas".
+  demo: https://t.me/raspiapuestas
+  tags:
+    - tag: Python
+    - tag: Raspberry Pi
+    - tag: Telegram-bot
+
+- name: Control persinanas Wifi
+  descr: Control de persianas Wifi con ESP32, adaptable a cualquier mando RF.
+  tags:
+    - tag: C++
+    - tag: Arduino
+    - tag: VueJs
