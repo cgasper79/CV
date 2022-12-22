@@ -24,6 +24,15 @@
  * Copyright 2012-2013 Mattia Larentis
  * http://www.apache.org/licenses/LICENSE-2.0
  */
+
+ hr.divider {
+  max-width: 5.25rem;
+  border-width: 0.4rem;
+  border-color: red;
+}
+
+
+
 .bootstrap-switch {
   display: inline-block;
   direction: ltr;
@@ -1254,7 +1263,7 @@
     top: 1px; }
 
 .btn-primary {
-  background-color: orangered;
+  background-color: purple;
   color: #FFFFFF; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .btn-primary:active:focus, .btn-primary:active:hover, .btn-primary.active:focus, .btn-primary.active:hover,
   .show > .btn-primary.dropdown-toggle,
@@ -2241,7 +2250,8 @@ h4, .h4 {
 h5, .h5 {
   font-size: 1.57em;
   line-height: 1.4em;
-  margin-bottom: 15px; }
+  margin-bottom: 15px; 
+  font-weight: 600;}
 
 h6, .h6 {
   font-size: 1em;
@@ -2598,7 +2608,7 @@ body {
   background-color: #888 !important; }
 
 .bg-primary {
-  background-color: orangered !important; }
+  background-color: rgb(239, 32, 32) !important; }
 
 .bg-info {
   background-color: #2CA8FF !important; }
@@ -5209,7 +5219,7 @@ Created using IcoMoon - icomoon.io
   padding-right: 0;
   text-align: center;
   color: #fff;
-  text-transform: uppercase; }
+  }
 
 /* Education Style */
 .cc-education .h5 {
